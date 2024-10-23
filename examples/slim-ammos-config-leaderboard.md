@@ -11,7 +11,6 @@
 | nasa-ammos | CODEX | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | timecraftjs | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | 3DTilesRendererJS | 🟢 | 🟠 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | common-workflow-service | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | VICAR | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | pngcs | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | 3DTilesSampleData | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -87,32 +86,188 @@
 
 | Category | Average Score |
 |----------|---------------|
-| Additional Documentation | 64.20 |
-| License | 58.64 |
-| Readme | 46.91 |
-| Code of Conduct | 43.21 |
-| Contributing Guide | 38.58 |
-| Changelog | 34.26 |
-| Issue Templates | 33.95 |
-| PR Templates | 29.63 |
-| Governance Model | 8.64 |
-| Secrets Detection | 2.47 |
-| Continuous Testing Plan | 0.62 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
+| Additional Documentation | 64 |
+| License | 58 |
+| Readme | 47 |
+| Code of Conduct | 42 |
+| Contributing Guide | 38 |
+| Changelog | 33 |
+| Issue Templates | 33 |
+| PR Templates | 29 |
+| Governance Model | 9 |
+| Secrets Detection | 2 |
+| Continuous Testing Plan | 1 |
+| GitHub: Vulnerability Alerts | 0 |
+| GitHub: Code Scanning Alerts | 0 |
+| GitHub: Secret Scanning Alerts | 0 |
+| Owner | Repository | License | Readme | Contributing Guide | Code of Conduct |
+Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: 
+Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning 
+Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+--- | --- | --- |
+| nasa-ammos | AIT-Core | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | AIT-GUI | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | AIT-DSN | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | AIT-CFS | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | MMGIS | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | Unity3DTiles | 🟣 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | CODEX | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | timecraftjs | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | 3DTilesRendererJS | 🟢 | 🟠 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | VICAR | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | pngcs | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | 3DTilesSampleData | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | MGViz | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | AMPCS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | MCWS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 |
+| nasa-ammos | openmct-mcws | 🔴 | 🟠 | 🟣 | 🟣 | 🟢 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | LithoSphere | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟢 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | quickstart-ammos-smallsat-toolkit | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 |
+🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie | 🟢 | 🟠 | 🟣 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | aerie-gateway | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-ui | 🟢 | 🟠 | 🟣 | 🟢 | 🟢 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🟢 | 🔴 |
+| nasa-ammos | anms | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 |
+| nasa-ammos | aerie-ampcs | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-ts-user-code-runner | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣
+| 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | ampcs-dict-schemas | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-lander | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | SPAR | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 |
+| nasa-ammos | aerie-pr-action | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-monaco-editor-customizations | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 
+| 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | CameraModelUtilsJS | 🟢 | 🟠 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-plan-collaboration-prototype | 🔴 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 
+| 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | DECISION | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-mission-model-template | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 |
+🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-cli | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-starterkit-python | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 
+🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
+| nasa-ammos | slim-starterkit-java | 🟢 | 🟠 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴
+| 🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | aerie-docs | 🔴 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | synopsis | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | seq-json-schema | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | AFIDS-POMM | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | xait | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 |
+| nasa-ammos | labelocity | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-config-detect-secrets | 🟣 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 
+🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-pmc | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-detect-secrets | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟢 | 🔴 
+| 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
+| nasa-ammos | multi-mission-utilities-DSN | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 
+🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | anms-docs | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | parent-ammos | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | anms-adms | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | VECTOR | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-sequence-editor | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-python-prototype | 🔴 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-simple-model-power | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 
+| 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-leaderboard | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | aerie-simple-model-data | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | VICAR-DOCS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 | 🔴 |
+| nasa-ammos | MMTC | 🔴 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 |
+| nasa-ammos | aerie-modeling-tutorial | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | cfn-ps-ammos-smallsat-toolkit | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 
+| 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | Landform | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | DataDrive-CommandLine | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | KMC | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 |
+| nasa-ammos | mgss-kmc | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | kmc_oci | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | mgss-kmc_oci | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | aerie-multimission-models-bb | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | OCS | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 |
+| nasa-ammos | BSL | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 |
+| nasa-ammos | ocs-python-client | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | ocs-js-client | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-cli | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 |
+🔴 | 🟢 | 🟠 |
+| nasa-ammos | BSL-docs | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 | 🔴 |
+| nasa-ammos | pgcmp | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 | 🔴 |
+| nasa-ammos | aerie-ui-plugin-examples | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa-ammos | slim-docsite-template | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | aerie-fprime-sequence-adaptation | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| nasa | FEI | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 
+🔴 |
+| rzellem | EXOTIC | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+🔴 | 🔴 |
 
-# Summary Statistics
-
-| Status | Count |
-| ------ | ----- |
-| NO | 657 |
-| YES | 210 |
-| PR | 204 |
-| PARTIAL | 63 |
-
-
-**Overall Repository Average Score**: 25.79
+**Overall Repository Average Score**: 25
 
 # Repository Check Explanation 
 

@@ -5,33 +5,34 @@
 | nasa | fprime | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
+ # Summary Statistics
+
 | Category | Average Score |
 |----------|---------------|
-| License | 100.00 |
-| Contributing Guide | 100.00 |
-| Code of Conduct | 100.00 |
-| Issue Templates | 100.00 |
-| Additional Documentation | 100.00 |
-| Readme | 50.00 |
-| PR Templates | 0.00 |
-| Changelog | 0.00 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
-| Secrets Detection | 0.00 |
-| Governance Model | 0.00 |
-| Continuous Testing Plan | 0.00 |
+| License | 100 |
+| Contributing Guide | 100 |
+| Code of Conduct | 100 |
+| Issue Templates | 100 |
+| Additional Documentation | 100 |
+| Readme | 50 |
+| PR Templates | 0 |
+| Changelog | 0 |
+| GitHub: Vulnerability Alerts | 0 |
+| GitHub: Code Scanning Alerts | 0 |
+| GitHub: Secret Scanning Alerts | 0 |
+| Secrets Detection | 0 |
+| Governance Model | 0 |
+| Continuous Testing Plan | 0 |
+| Owner | Repository | License | Readme | Contributing Guide | Code of Conduct |
+Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: 
+Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning 
+Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+--- | --- | --- |
+| nasa | fprime | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴
+| 🔴 |
 
-# Summary Statistics
-
-| Status | Count |
-| ------ | ----- |
-| PARTIAL | 1 |
-| YES | 5 |
-| NO | 8 |
-
-
-**Overall Repository Average Score**: 39.29
+**Overall Repository Average Score**: 39
 
 # Repository Check Explanation 
 

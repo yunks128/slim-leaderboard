@@ -6,32 +6,36 @@
 | NASA-AMMOS | slim-starterkit-python | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
 
 
+ # Summary Statistics
+
 | Category | Average Score |
 |----------|---------------|
-| License | 100.00 |
-| Readme | 100.00 |
-| Contributing Guide | 100.00 |
-| Code of Conduct | 100.00 |
-| Issue Templates | 100.00 |
-| PR Templates | 100.00 |
-| Additional Documentation | 100.00 |
-| Changelog | 100.00 |
-| Governance Model | 100.00 |
-| Secrets Detection | 50.00 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
-| Continuous Testing Plan | 0.00 |
+| License | 100 |
+| Readme | 100 |
+| Contributing Guide | 100 |
+| Code of Conduct | 100 |
+| Issue Templates | 100 |
+| PR Templates | 100 |
+| Additional Documentation | 100 |
+| Changelog | 100 |
+| Governance Model | 100 |
+| Secrets Detection | 50 |
+| GitHub: Vulnerability Alerts | 0 |
+| GitHub: Code Scanning Alerts | 0 |
+| GitHub: Secret Scanning Alerts | 0 |
+| Continuous Testing Plan | 0 |
+| Owner | Repository | License | Readme | Contributing Guide | Code of Conduct |
+Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: 
+Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning 
+Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+--- | --- | --- |
+| nasa-ammos | slim | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 
+| 🟢 | 🔴 |
+| NASA-AMMOS | slim-starterkit-python | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 
+🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
 
-# Summary Statistics
-
-| Status | Count |
-| ------ | ----- |
-| YES | 19 |
-| NO | 9 |
-
-
-**Overall Repository Average Score**: 67.86
+**Overall Repository Average Score**: 68
 
 # Repository Check Explanation 
 

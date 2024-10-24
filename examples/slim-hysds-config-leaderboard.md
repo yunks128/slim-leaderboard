@@ -81,33 +81,20 @@
 | hysds | metrics_extractor | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 
 
-| Category | Average Score |
-|----------|---------------|
-| License | 72.73 |
-| Readme | 43.51 |
-| Additional Documentation | 18.18 |
-| Issue Templates | 5.19 |
-| Contributing Guide | 3.90 |
-| PR Templates | 2.60 |
-| Code of Conduct | 1.30 |
-| Changelog | 1.30 |
-| Governance Model | 1.30 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
-| Secrets Detection | 0.00 |
-| Continuous Testing Plan | 0.00 |
-
 # Summary Statistics
 
 | Status | Count |
 | ------ | ----- |
-| PARTIAL | 65 |
-| YES | 83 |
-| NO | 930 |
 
+ # Summary Statistics
+| Category | Average Score ||----------|---------------|| License | 73 || Readme
+| 44 || Additional Documentation | 18 || Issue Templates | 5 || Contributing 
+Guide | 4 || PR Templates | 3 || Code of Conduct | 1 || Changelog | 1 || 
+Governance Model | 1 || GitHub: Vulnerability Alerts | 0 || GitHub: Code 
+Scanning Alerts | 0 || GitHub: Secret Scanning Alerts | 0 || Secrets Detection |
+0 || Continuous Testing Plan | 0 |
 
-**Overall Repository Average Score**: 10.71
+**Overall Repository Average Score**: 11
 
 # Repository Check Explanation 
 

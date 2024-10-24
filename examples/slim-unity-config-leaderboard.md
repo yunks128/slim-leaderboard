@@ -72,34 +72,20 @@
 | unity-sds | mdps-ds-lib | 🟢 | 🟠 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
-| Category | Average Score |
-|----------|---------------|
-| License | 79.78 |
-| Readme | 62.13 |
-| Additional Documentation | 60.29 |
-| Changelog | 55.88 |
-| Contributing Guide | 54.04 |
-| Code of Conduct | 54.04 |
-| Issue Templates | 45.96 |
-| PR Templates | 43.01 |
-| Governance Model | 1.47 |
-| Continuous Testing Plan | 1.10 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
-| Secrets Detection | 0.00 |
-
 # Summary Statistics
 
 | Status | Count |
 | ------ | ----- |
-| YES | 286 |
-| NO | 604 |
-| PR | 23 |
-| PARTIAL | 39 |
 
+ # Summary Statistics
+| Category | Average Score ||----------|---------------|| License | 80 || Readme
+| 62 || Additional Documentation | 60 || Changelog | 56 || Contributing Guide | 
+54 || Code of Conduct | 54 || Issue Templates | 46 || PR Templates | 43 || 
+Governance Model | 1 || Continuous Testing Plan | 1 || GitHub: Vulnerability 
+Alerts | 0 || GitHub: Code Scanning Alerts | 0 || GitHub: Secret Scanning Alerts
+| 0 || Secrets Detection | 0 |
 
-**Overall Repository Average Score**: 32.69
+**Overall Repository Average Score**: 33
 
 # Repository Check Explanation 
 

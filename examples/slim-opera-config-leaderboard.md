@@ -51,7 +51,6 @@
 | OPERA-Cal-Val | dswx-sar-acq-selection | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dl-with-alos-dswe | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dswx-hls-pst-workflow | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| OPERA-Cal-Val | dist-s1-research | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-validation-harness | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-events | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-calibration | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -79,13 +78,23 @@
 
 | Status | Count |
 | ------ | ----- |
-| NO | 614 |
-| YES | 90 |
-| PARTIAL | 51 |
-| PR | 1 |
+| License | 79.2 |
+| Readme | 46.2 |
+| Additional Documentation | 35.9 |
+| Issue Templates | 32.1 |
+| PR Templates | 11.3 |
+| Changelog | 7.5 |
+| Secrets Detection | 1.9 |
+| Continuous Testing Plan | 0.9 |
+| Contributing Guide | 0.5 |
+| Code of Conduct | 0.0 |
+| GitHub: Vulnerability Alerts | 0.0 |
+| GitHub: Code Scanning Alerts | 0.0 |
+| GitHub: Secret Scanning Alerts | 0.0 |
+| Governance Model | 0.0 |
 
 
-**Overall Repository Average Score**: 15.31
+**Overall Repository Average Score**: 15
 
 # Repository Check Explanation 
 

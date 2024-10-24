@@ -79,13 +79,23 @@
 
 | Status | Count |
 | ------ | ----- |
-| NO | 614 |
-| YES | 90 |
-| PARTIAL | 51 |
-| PR | 1 |
+| License | 79.6 |
+| Readme | 46.3 |
+| Additional Documentation | 35.2 |
+| Issue Templates | 31.5 |
+| PR Templates | 11.1 |
+| Changelog | 7.4 |
+| Secrets Detection | 1.9 |
+| Continuous Testing Plan | 0.9 |
+| Contributing Guide | 0.5 |
+| Code of Conduct | 0.0 |
+| GitHub: Vulnerability Alerts | 0.0 |
+| GitHub: Code Scanning Alerts | 0.0 |
+| GitHub: Secret Scanning Alerts | 0.0 |
+| Governance Model | 0.0 |
 
 
-**Overall Repository Average Score**: 15.31
+**Overall Repository Average Score**: 15
 
 # Repository Check Explanation 
 

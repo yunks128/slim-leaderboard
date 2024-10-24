@@ -58,34 +58,27 @@
 | OPERA-Cal-Val | dist-s1-sample-workflow | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
-| Category | Average Score |
-|----------|---------------|
-| License | 79.63 |
-| Readme | 46.30 |
-| Additional Documentation | 35.19 |
-| Issue Templates | 31.48 |
-| PR Templates | 11.11 |
-| Changelog | 7.41 |
-| Secrets Detection | 1.85 |
-| Continuous Testing Plan | 0.93 |
-| Contributing Guide | 0.46 |
-| Code of Conduct | 0.00 |
-| GitHub: Vulnerability Alerts | 0.00 |
-| GitHub: Code Scanning Alerts | 0.00 |
-| GitHub: Secret Scanning Alerts | 0.00 |
-| Governance Model | 0.00 |
-
 # Summary Statistics
 
-| Status | Count |
+| Category | Score |
 | ------ | ----- |
-| NO | 614 |
-| YES | 90 |
-| PARTIAL | 51 |
-| PR | 1 |
+| License | 80 |
+| Readme | 46 |
+| Additional Documentation | 35 |
+| Issue Templates | 31 |
+| PR Templates | 11 |
+| Changelog | 7 |
+| Secrets Detection | 2 |
+| Continuous Testing Plan | 1 |
+| Contributing Guide | 0 |
+| Code of Conduct | 0 |
+| GitHub: Vulnerability Alerts | 0 |
+| GitHub: Code Scanning Alerts | 0 |
+| GitHub: Secret Scanning Alerts | 0 |
+| Governance Model | 0 |
 
 
-**Overall Repository Average Score**: 15.31
+**Overall Repository Average Score**: 15
 
 # Repository Check Explanation 
 

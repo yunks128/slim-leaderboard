@@ -105,7 +105,7 @@
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score**: 26
+**Overall Repository Average Score (%)**: 25.8
 
 # Repository Check Explanation 
 

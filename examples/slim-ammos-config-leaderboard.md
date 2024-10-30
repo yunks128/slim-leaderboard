@@ -26,7 +26,6 @@
 | nasa-ammos | aerie-ui | 🟢 | 🟠 | 🟣 | 🟢 | 🟢 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | slim | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | anms | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | aerie-ampcs | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-ts-user-code-runner | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | ampcs-dict-schemas | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-lander | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -91,15 +90,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 62.6 |
-| License | 59.6 |
+| Additional Documentation | 62.2 |
+| License | 59.1 |
 | Readme | 47.0 |
-| Code of Conduct | 42.2 |
-| Contributing Guide | 37.6 |
-| Changelog | 33.4 |
-| Issue Templates | 33.1 |
-| PR Templates | 28.9 |
-| Governance Model | 8.4 |
+| Code of Conduct | 41.5 |
+| Contributing Guide | 37.8 |
+| Changelog | 33.8 |
+| Issue Templates | 33.2 |
+| PR Templates | 29.0 |
+| Governance Model | 8.5 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |

@@ -26,6 +26,7 @@
 | opera-adt | opera-utils | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | disp-nisar | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | DSWx-Enhanced-Analysis | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| opera-adt | dist-s1-enumerator | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | gladumd | OPERA_DIST | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | calval-CSLC | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | calval-RTC | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -67,13 +68,13 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 79.6 |
-| Readme | 46.3 |
-| Additional Documentation | 35.2 |
-| Issue Templates | 31.5 |
-| PR Templates | 11.1 |
-| Changelog | 7.4 |
-| Secrets Detection | 1.9 |
+| License | 80.0 |
+| Readme | 46.4 |
+| Additional Documentation | 34.5 |
+| Issue Templates | 30.9 |
+| PR Templates | 10.9 |
+| Changelog | 7.3 |
+| Secrets Detection | 1.8 |
 | Continuous Testing Plan | 0.9 |
 | Contributing Guide | 0.5 |
 | Code of Conduct | 0.0 |
@@ -83,7 +84,7 @@
 | Governance Model | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 15.3
+**Overall Repository Average Score (%)**: 15.2
 
 # Repository Check Explanation 
 

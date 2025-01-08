@@ -8,7 +8,6 @@
 | unity-sds | unity-data-services | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-cs-infra | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-ads-deployment | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| unity-sds | unity-cs-security | 🟣 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-sps-workflows | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-cs-sps-demo | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | ades_wpst | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -81,14 +80,14 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 79.8 |
-| Readme | 62.1 |
-| Additional Documentation | 60.3 |
-| Changelog | 55.9 |
-| Contributing Guide | 54.0 |
-| Code of Conduct | 54.0 |
-| Issue Templates | 46.0 |
-| PR Templates | 43.0 |
+| License | 80.6 |
+| Readme | 62.3 |
+| Additional Documentation | 61.2 |
+| Changelog | 56.3 |
+| Contributing Guide | 54.5 |
+| Code of Conduct | 54.5 |
+| Issue Templates | 46.3 |
+| PR Templates | 43.3 |
 | Governance Model | 1.5 |
 | Continuous Testing Plan | 1.1 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -97,7 +96,7 @@
 | Secrets Detection | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 32.7
+**Overall Repository Average Score (%)**: 33.0
 
 # Repository Check Explanation 
 

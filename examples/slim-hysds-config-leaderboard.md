@@ -35,7 +35,6 @@
 | hysds | soap | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | crawler | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-ops-bot | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | bulk_product_delivery | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-cloud-functions | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-packer-templates | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-terraform | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -90,11 +89,11 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 72.7 |
-| Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Issue Templates | 5.2 |
-| Contributing Guide | 3.9 |
+| License | 73.7 |
+| Readme | 43.4 |
+| Additional Documentation | 18.4 |
+| Issue Templates | 5.3 |
+| Contributing Guide | 4.0 |
 | PR Templates | 2.6 |
 | Code of Conduct | 1.3 |
 | Changelog | 1.3 |
@@ -106,7 +105,7 @@
 | Continuous Testing Plan | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 10.7
+**Overall Repository Average Score (%)**: 10.8
 
 # Repository Check Explanation 
 

@@ -105,7 +105,7 @@
 | ------ | ----- |
 | License | 86.4 |
 | Additional Documentation | 46.7 |
-| Readme | 42.8 |
+| Readme | 43.3 |
 | Contributing Guide | 22.2 |
 | Changelog | 18.1 |
 | Issue Templates | 10.0 |

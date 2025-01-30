@@ -2,17 +2,7 @@
 # SLIM Best Practices Repository Scan Report
 | Owner | Repository | License | Readme | Contributing Guide | Code of Conduct | Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| nasa | opera-sds-pge | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
-| nasa | opera-sds-pcm | 🟢 | 🟠 | 🟣 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟠 |
-| nasa | opera-sds-sys | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds-lambdas | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds-bach-ui | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds-bach-api | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds-int | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | opera-sds-ops | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa | PROTEUS | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| gladumd | OPERA_DIST | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| c-h-david | rapid | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
 # Summary Statistics
@@ -25,22 +15,22 @@
 | Category | Score (%) |
 | ------ | ----- |
 | License | 100.0 |
-| Issue Templates | 90.9 |
-| PR Templates | 54.5 |
-| Readme | 45.5 |
-| Additional Documentation | 18.2 |
-| Secrets Detection | 9.1 |
-| Continuous Testing Plan | 4.5 |
-| Contributing Guide | 2.3 |
+| Issue Templates | 100.0 |
+| Additional Documentation | 100.0 |
+| Readme | 50.0 |
+| Contributing Guide | 0.0 |
 | Code of Conduct | 0.0 |
+| PR Templates | 0.0 |
 | Changelog | 0.0 |
 | GitHub: Vulnerability Alerts | 0.0 |
 | GitHub: Code Scanning Alerts | 0.0 |
 | GitHub: Secret Scanning Alerts | 0.0 |
+| Secrets Detection | 0.0 |
 | Governance Model | 0.0 |
+| Continuous Testing Plan | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 23.2
+**Overall Repository Average Score (%)**: 25.0
 
 # Repository Check Explanation 
 

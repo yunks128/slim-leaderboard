@@ -76,7 +76,6 @@
 | hysds | art2s3 | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | repo-template | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | pele_client | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | rabbitmq | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | fabric | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | metrics_extractor | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 
@@ -90,12 +89,12 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 72.7 |
-| Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Issue Templates | 5.2 |
-| Contributing Guide | 3.9 |
-| PR Templates | 2.6 |
+| License | 71.4 |
+| Readme | 43.4 |
+| Additional Documentation | 17.1 |
+| Issue Templates | 4.3 |
+| Contributing Guide | 3.0 |
+| PR Templates | 1.6 |
 | Code of Conduct | 1.3 |
 | Changelog | 1.3 |
 | Governance Model | 1.3 |

@@ -60,6 +60,7 @@
 | unity-sds | unity-sps-ogc-processes-api | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | SBG-unity-frac-cover | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | stac-merge | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| unity-sds | application-development-lifecycle | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | SBG-unity-trait-estimate | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-analytics-sdap-nexus | 🟢 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-cs-monitoring-lambda | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -80,14 +81,14 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 81.0 |
-| Readme | 62.3 |
-| Additional Documentation | 61.2 |
-| Changelog | 56.7 |
-| Contributing Guide | 54.9 |
-| Code of Conduct | 54.9 |
-| Issue Templates | 46.6 |
-| PR Templates | 43.7 |
+| License | 79.8 |
+| Readme | 62.1 |
+| Additional Documentation | 60.3 |
+| Changelog | 55.9 |
+| Contributing Guide | 54.0 |
+| Code of Conduct | 54.0 |
+| Issue Templates | 46.0 |
+| PR Templates | 43.0 |
 | Governance Model | 1.5 |
 | Continuous Testing Plan | 1.1 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -96,7 +97,7 @@
 | Secrets Detection | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 33.1
+**Overall Repository Average Score (%)**: 32.7
 
 # Repository Check Explanation 
 

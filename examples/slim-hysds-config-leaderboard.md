@@ -63,7 +63,7 @@
 | hysds | gosu | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | timer_example | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-vagrant | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | hysds.github.io | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| hysds | hysds.github.io | 🟣 | 🟠 | 🟣 | 🔴 | 🟣 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | sdswatch | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | rabbitmq-utils | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-hec-utils | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -90,12 +90,12 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 72.7 |
+| License | 71.8 |
 | Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Issue Templates | 5.2 |
-| Contributing Guide | 3.9 |
-| PR Templates | 2.6 |
+| Additional Documentation | 16.9 |
+| Issue Templates | 4.2 |
+| Contributing Guide | 2.9 |
+| PR Templates | 1.6 |
 | Code of Conduct | 1.3 |
 | Changelog | 1.3 |
 | Governance Model | 1.3 |
@@ -106,7 +106,7 @@
 | Continuous Testing Plan | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 10.7
+**Overall Repository Average Score (%)**: 10.3
 
 # Repository Check Explanation 
 

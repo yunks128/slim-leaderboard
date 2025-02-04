@@ -25,11 +25,11 @@
 | opera-adt | mgrs_tiles_database | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | opera-utils | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | disp-nisar | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| opera-adt | distmetrics | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| opera-adt | distmetrics | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | DSWx-Enhanced-Analysis | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | dist-s1-enumerator | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | opera-adt | dist-s1 | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| opera-adt | opera_tropo | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| opera-adt | tropo | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | gladumd | OPERA_DIST | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | calval-CSLC | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | calval-RTC | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -56,7 +56,6 @@
 | OPERA-Cal-Val | dl-with-alos-dswe | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dswx-hls-pst-workflow | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-research | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| OPERA-Cal-Val | dist-s1-validation-harness | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-events | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-calibration | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | OPERA-Cal-Val | dist-s1-sample-workflow | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -72,14 +71,14 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 81.4 |
-| Readme | 45.8 |
-| Additional Documentation | 35.6 |
-| Issue Templates | 28.8 |
-| Changelog | 11.9 |
-| PR Templates | 10.2 |
+| License | 81.0 |
+| Readme | 45.7 |
+| Additional Documentation | 39.7 |
+| Issue Templates | 29.3 |
+| Changelog | 13.8 |
+| PR Templates | 10.3 |
 | Secrets Detection | 1.7 |
-| Continuous Testing Plan | 0.8 |
+| Continuous Testing Plan | 0.9 |
 | Contributing Guide | 0.4 |
 | Code of Conduct | 0.0 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -88,7 +87,7 @@
 | Governance Model | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 15.5
+**Overall Repository Average Score (%)**: 15.9
 
 # Repository Check Explanation 
 

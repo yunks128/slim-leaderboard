@@ -74,9 +74,9 @@
 | ------ | ----- |
 | License | 81.4 |
 | Readme | 45.8 |
-| Additional Documentation | 35.6 |
+| Additional Documentation | 39.0 |
 | Issue Templates | 28.8 |
-| Changelog | 11.9 |
+| Changelog | 13.6 |
 | PR Templates | 10.2 |
 | Secrets Detection | 1.7 |
 | Continuous Testing Plan | 0.8 |
@@ -88,7 +88,7 @@
 | Governance Model | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 15.5
+**Overall Repository Average Score (%)**: 15.8
 
 # Repository Check Explanation 
 

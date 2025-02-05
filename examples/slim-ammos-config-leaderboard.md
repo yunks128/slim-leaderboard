@@ -33,7 +33,6 @@
 | nasa-ammos | SPAR | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-pr-action | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-monaco-editor-customizations | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | CameraModelUtilsJS | 🟢 | 🟠 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-plan-collaboration-prototype | 🔴 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | DECISION | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-mission-model-template | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -98,15 +97,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 63.5 |
-| License | 60.6 |
-| Readme | 47.1 |
-| Code of Conduct | 40.9 |
-| Contributing Guide | 37.4 |
-| Changelog | 33.5 |
-| Issue Templates | 32.9 |
-| PR Templates | 27.9 |
-| Governance Model | 9.4 |
+| Additional Documentation | 63.1 |
+| License | 60.1 |
+| Readme | 47.0 |
+| Code of Conduct | 40.2 |
+| Contributing Guide | 37.8 |
+| Changelog | 33.9 |
+| Issue Templates | 32.1 |
+| PR Templates | 27.1 |
+| Governance Model | 9.5 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -114,7 +113,7 @@
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 25.4
+**Overall Repository Average Score (%)**: 25.3
 
 # Repository Check Explanation 
 

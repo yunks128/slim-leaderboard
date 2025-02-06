@@ -31,7 +31,6 @@
 | unity-sds | unity-management-console | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | app-pack-generator | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-on-demand-api | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| unity-sds | unity-app-generator | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-example-application | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | unity-backstage | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | unity-sds | sounder-sips-chirp-workflows | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -80,14 +79,14 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 81.0 |
-| Readme | 62.3 |
-| Additional Documentation | 61.2 |
-| Changelog | 56.7 |
-| Contributing Guide | 54.9 |
-| Code of Conduct | 54.9 |
-| Issue Templates | 46.6 |
-| PR Templates | 43.7 |
+| License | 78.3 |
+| Readme | 61.4 |
+| Additional Documentation | 58.8 |
+| Changelog | 54.4 |
+| Contributing Guide | 54.0 |
+| Code of Conduct | 54.0 |
+| Issue Templates | 46.0 |
+| PR Templates | 43.0 |
 | Governance Model | 1.5 |
 | Continuous Testing Plan | 1.1 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -96,7 +95,7 @@
 | Secrets Detection | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 33.1
+**Overall Repository Average Score (%)**: 32.3
 
 # Repository Check Explanation 
 

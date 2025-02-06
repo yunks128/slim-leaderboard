@@ -41,7 +41,6 @@
 | nasa-ammos | slim-starterkit-python | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
 | nasa-ammos | slim-starterkit-java | 🟢 | 🟠 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | slim-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
-| nasa-ammos | aerie-docs | 🔴 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | synopsis | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | seq-json-schema | 🟢 | 🟠 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | AFIDS-POMM | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -98,15 +97,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 63.5 |
-| License | 60.6 |
-| Readme | 47.1 |
-| Code of Conduct | 40.9 |
-| Contributing Guide | 37.4 |
-| Changelog | 33.5 |
-| Issue Templates | 32.9 |
-| PR Templates | 27.9 |
-| Governance Model | 9.4 |
+| Additional Documentation | 63.1 |
+| License | 61.3 |
+| Readme | 47.0 |
+| Code of Conduct | 41.4 |
+| Contributing Guide | 36.6 |
+| Changelog | 33.9 |
+| Issue Templates | 33.3 |
+| PR Templates | 28.3 |
+| Governance Model | 9.5 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -114,7 +113,7 @@
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 25.4
+**Overall Repository Average Score (%)**: 25.5
 
 # Repository Check Explanation 
 

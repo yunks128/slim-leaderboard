@@ -67,7 +67,6 @@
 | MAAP-project | maap-eoapi | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | MAAP-project | MAAP-STAC-auth | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | MAAP-project | maap-data-pipelines | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| MAAP-project | maap-repo-template | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | MAAP-project | maap-STAC-browser | 🟣 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | MAAP-project | flask_ades_wpst | 🟣 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | MAAP-project | che-sidebar-visibility-jupyter-extension | 🟢 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -103,12 +102,12 @@
 | Category | Score (%) |
 | ------ | ----- |
 | License | 86.2 |
-| Additional Documentation | 47.2 |
+| Additional Documentation | 46.1 |
 | Readme | 43.3 |
-| Contributing Guide | 22.5 |
-| Changelog | 18.3 |
+| Contributing Guide | 21.4 |
+| Changelog | 18.0 |
 | Issue Templates | 10.1 |
-| Code of Conduct | 9.0 |
+| Code of Conduct | 7.9 |
 | PR Templates | 4.5 |
 | GitHub: Vulnerability Alerts | 0.0 |
 | GitHub: Code Scanning Alerts | 0.0 |
@@ -118,7 +117,7 @@
 | Continuous Testing Plan | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 17.2
+**Overall Repository Average Score (%)**: 17.0
 
 # Repository Check Explanation 
 

@@ -52,7 +52,6 @@
 | nasa-ammos | slim-detect-secrets | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
 | nasa-ammos | multi-mission-utilities-DSN | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | anms-docs | 🟢 | 🟠 | 🟢 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | parent-ammos | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | anms-adms | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | VECTOR | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-sequence-editor | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -98,15 +97,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 63.5 |
-| License | 60.6 |
-| Readme | 47.1 |
-| Code of Conduct | 40.9 |
-| Contributing Guide | 37.4 |
-| Changelog | 33.5 |
-| Issue Templates | 32.9 |
-| PR Templates | 27.9 |
-| Governance Model | 9.4 |
+| Additional Documentation | 63.1 |
+| License | 60.1 |
+| Readme | 46.4 |
+| Code of Conduct | 40.2 |
+| Contributing Guide | 36.6 |
+| Changelog | 32.7 |
+| Issue Templates | 32.1 |
+| PR Templates | 27.1 |
+| Governance Model | 8.3 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -114,7 +113,7 @@
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 25.4
+**Overall Repository Average Score (%)**: 25.0
 
 # Repository Check Explanation 
 

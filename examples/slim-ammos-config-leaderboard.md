@@ -3,7 +3,6 @@
 | Owner | Repository | License | Readme | Contributing Guide | Code of Conduct | Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | nasa-ammos | AIT-Core | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | AIT-GUI | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | AIT-DSN | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | AIT-CFS | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | MMGIS | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -61,7 +60,6 @@
 | nasa-ammos | slim-leaderboard | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | aerie-simple-model-data | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | VICAR-DOCS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | MMTC | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-modeling-tutorial | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | cfn-ps-ammos-smallsat-toolkit | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | Landform | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -72,7 +70,6 @@
 | nasa-ammos | mgss-kmc_oci | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-multimission-models-bb | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | OCS | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | BSL | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | ocs-python-client | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | ocs-js-client | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | slim-cli | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟠 |
@@ -98,15 +95,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 63.5 |
-| License | 60.6 |
-| Readme | 47.1 |
-| Code of Conduct | 40.9 |
-| Contributing Guide | 37.4 |
+| Additional Documentation | 64.6 |
+| License | 60.4 |
+| Readme | 47.6 |
+| Code of Conduct | 42.1 |
+| Contributing Guide | 38.4 |
+| Issue Templates | 33.8 |
 | Changelog | 33.5 |
-| Issue Templates | 32.9 |
-| PR Templates | 27.9 |
-| Governance Model | 9.4 |
+| PR Templates | 28.7 |
+| Governance Model | 9.8 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -114,7 +111,7 @@
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 25.4
+**Overall Repository Average Score (%)**: 25.8
 
 # Repository Check Explanation 
 

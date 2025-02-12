@@ -19,7 +19,6 @@
 | hysds | tosca | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-framework | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-releaser | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | puppet-scientific_python | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-mysql | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-cloud_utils | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-docker | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -90,11 +89,11 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 72.7 |
-| Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Issue Templates | 5.2 |
-| Contributing Guide | 3.9 |
+| License | 72.4 |
+| Readme | 43.4 |
+| Additional Documentation | 18.4 |
+| Issue Templates | 5.3 |
+| Contributing Guide | 4.0 |
 | PR Templates | 2.6 |
 | Code of Conduct | 1.3 |
 | Changelog | 1.3 |

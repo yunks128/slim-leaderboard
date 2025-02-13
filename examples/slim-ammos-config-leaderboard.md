@@ -19,7 +19,6 @@
 | nasa-ammos | AMPCS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | MCWS | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | openmct-mcws | 🔴 | 🟠 | 🟣 | 🟣 | 🟢 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | LithoSphere | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | quickstart-ammos-smallsat-toolkit | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie | 🟢 | 🟠 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | aerie-gateway | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -98,15 +97,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 63.5 |
-| License | 60.6 |
-| Readme | 47.1 |
-| Code of Conduct | 40.9 |
-| Contributing Guide | 37.4 |
-| Changelog | 33.5 |
-| Issue Templates | 32.9 |
-| PR Templates | 27.9 |
-| Governance Model | 9.4 |
+| Additional Documentation | 63.1 |
+| License | 60.1 |
+| Readme | 47.0 |
+| Code of Conduct | 41.1 |
+| Contributing Guide | 37.5 |
+| Issue Templates | 33.0 |
+| Changelog | 32.7 |
+| PR Templates | 28.0 |
+| Governance Model | 9.5 |
 | Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |

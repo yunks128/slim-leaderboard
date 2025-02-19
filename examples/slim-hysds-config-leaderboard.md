@@ -2,7 +2,6 @@
 # SLIM Best Practices Repository Scan Report
 | Owner | Repository | License | Readme | Contributing Guide | Code of Conduct | Issue Templates | PR Templates | Additional Documentation | Changelog | GitHub: Vulnerability Alerts | GitHub: Code Scanning Alerts | GitHub: Secret Scanning Alerts | Secrets Detection | Governance Model | Continuous Testing Plan |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| hysds | hysds | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | sciflo | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | container-builder | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | figaro | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -19,7 +18,6 @@
 | hysds | tosca | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-framework | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hysds-releaser | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | puppet-scientific_python | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-mysql | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-cloud_utils | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | puppet-docker | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -90,12 +88,12 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 72.7 |
-| Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Issue Templates | 5.2 |
-| Contributing Guide | 3.9 |
-| PR Templates | 2.6 |
+| License | 72.0 |
+| Readme | 43.3 |
+| Additional Documentation | 18.7 |
+| Issue Templates | 5.3 |
+| Contributing Guide | 4.0 |
+| PR Templates | 2.7 |
 | Code of Conduct | 1.3 |
 | Changelog | 1.3 |
 | Governance Model | 1.3 |

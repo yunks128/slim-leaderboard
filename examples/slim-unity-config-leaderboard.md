@@ -80,15 +80,15 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 81.0 |
-| Readme | 62.3 |
-| Additional Documentation | 61.2 |
-| Changelog | 56.7 |
-| Contributing Guide | 54.9 |
-| Code of Conduct | 54.9 |
-| Issue Templates | 46.6 |
-| PR Templates | 43.7 |
-| Governance Model | 1.5 |
+| License | 78.6 |
+| Readme | 61.2 |
+| Additional Documentation | 59.4 |
+| Changelog | 55.1 |
+| Contributing Guide | 53.3 |
+| Code of Conduct | 53.3 |
+| Issue Templates | 45.3 |
+| PR Templates | 42.4 |
+| Governance Model | 1.4 |
 | Continuous Testing Plan | 1.1 |
 | GitHub: Vulnerability Alerts | 0.0 |
 | GitHub: Code Scanning Alerts | 0.0 |

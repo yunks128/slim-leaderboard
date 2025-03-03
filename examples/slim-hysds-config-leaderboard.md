@@ -72,7 +72,6 @@
 | hysds | aws-es-proxy | 🟢 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | notebook_pge_wrapper | 🟣 | 🟠 | 🟣 | 🟣 | 🔴 | 🔴 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | hello_world_notebook | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| hysds | otello | 🟢 | 🟠 | 🟣 | 🟣 | 🔴 | 🔴 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | art2s3 | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | repo-template | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | hysds | pele_client | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -90,13 +89,13 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| License | 75.7 |
-| Readme | 43.5 |
-| Additional Documentation | 18.2 |
-| Contributing Guide | 16.9 |
-| Code of Conduct | 14.6 |
-| Changelog | 14.6 |
-| Issue Templates | 5.2 |
+| License | 75.3 |
+| Readme | 43.4 |
+| Additional Documentation | 17.1 |
+| Contributing Guide | 16.8 |
+| Code of Conduct | 14.5 |
+| Changelog | 14.5 |
+| Issue Templates | 5.3 |
 | PR Templates | 2.6 |
 | Governance Model | 1.3 |
 | GitHub: Vulnerability Alerts | 0.0 |
@@ -106,7 +105,7 @@
 | Continuous Testing Plan | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 13.8
+**Overall Repository Average Score (%)**: 13.6
 
 # Repository Check Explanation 
 

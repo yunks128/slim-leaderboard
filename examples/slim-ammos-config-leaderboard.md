@@ -10,7 +10,6 @@
 | nasa-ammos | Unity3DTiles | 🟣 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | CODEX | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | timecraftjs | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | 3DTilesRendererJS | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | common-workflow-service | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | VICAR | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | pngcs | 🟢 | 🔴 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -43,7 +42,6 @@
 | nasa-ammos | slim-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | aerie-docs | 🔴 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | synopsis | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | seq-json-schema | 🟢 | 🟠 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | AFIDS-POMM | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | xait | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | labelocity | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -85,7 +83,7 @@
 | nasa-ammos | aerie-phoenix-adaptation-vml | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | OCO3-MOS-dmc | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | Veloserver | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | slim-cd-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | slim-cd-starterkit | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa | FEI | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | rzellem | EXOTIC | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
@@ -99,23 +97,23 @@
 
 | Category | Score (%) |
 | ------ | ----- |
-| Additional Documentation | 64.0 |
-| License | 61.0 |
-| Readme | 47.7 |
-| Code of Conduct | 41.6 |
-| Contributing Guide | 38.1 |
-| Changelog | 34.3 |
-| Issue Templates | 33.7 |
-| PR Templates | 28.8 |
-| Governance Model | 10.5 |
-| Secrets Detection | 2.3 |
+| Additional Documentation | 64.3 |
+| License | 60.1 |
+| Readme | 47.0 |
+| Code of Conduct | 41.1 |
+| Contributing Guide | 37.5 |
+| Changelog | 33.6 |
+| Issue Templates | 32.1 |
+| PR Templates | 29.2 |
+| Governance Model | 9.5 |
+| Secrets Detection | 2.4 |
 | Continuous Testing Plan | 0.6 |
 | GitHub: Vulnerability Alerts | 0.0 |
 | GitHub: Code Scanning Alerts | 0.0 |
 | GitHub: Secret Scanning Alerts | 0.0 |
 
 
-**Overall Repository Average Score (%)**: 25.9
+**Overall Repository Average Score (%)**: 25.5
 
 # Repository Check Explanation 
 

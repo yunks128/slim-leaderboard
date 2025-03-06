@@ -101,7 +101,7 @@
 | ------ | ----- |
 | Additional Documentation | 64.0 |
 | License | 61.0 |
-| Readme | 47.7 |
+| Readme | 47.1 |
 | Code of Conduct | 41.6 |
 | Contributing Guide | 38.1 |
 | Changelog | 34.3 |

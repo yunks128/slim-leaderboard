@@ -43,7 +43,6 @@
 | nasa-ammos | slim-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | aerie-docs | 🔴 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | synopsis | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | seq-json-schema | 🟢 | 🟠 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa-ammos | AFIDS-POMM | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | xait | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | labelocity | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -85,37 +84,37 @@
 | nasa-ammos | aerie-phoenix-adaptation-vml | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | OCO3-MOS-dmc | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | nasa-ammos | Veloserver | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| nasa-ammos | slim-cd-starterkit | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
+| nasa-ammos | slim-cd-starterkit | 🟢 | 🟠 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 |
 | nasa | FEI | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | rzellem | EXOTIC | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
 # Summary Statistics
-  - 'YES': Full completion/success (100%)
-  - 'NO': No completion/failure (0%)
-  - 'PARTIAL': Partial completion (50%)
-  - 'ISSUE': Problem reported (25%)
-  - 'PR' (likely Pull Request): Code changes proposed (25%)
 
-| Category | Score (%) |
+| Metric | Value |
 | ------ | ----- |
-| Additional Documentation | 64.0 |
-| License | 61.0 |
-| Readme | 47.7 |
-| Code of Conduct | 41.6 |
-| Contributing Guide | 38.1 |
-| Changelog | 34.3 |
-| Issue Templates | 33.7 |
-| PR Templates | 28.8 |
-| Governance Model | 10.5 |
-| Secrets Detection | 2.3 |
-| Continuous Testing Plan | 0.6 |
-| GitHub: Vulnerability Alerts | 0.0 |
-| GitHub: Code Scanning Alerts | 0.0 |
-| GitHub: Secret Scanning Alerts | 0.0 |
+| Overall Best Practice Score (%) | 25.8 |
+| Additional Documentation Score (%) | 64.7 |
+| License Score (%) | 60.6 |
+| Readme Score (%) | 47.1 |
+| Code of Conduct Score (%) | 41.8 |
+| Contributing Guide Score (%) | 38.2 |
+| Changelog Score (%) | 34.4 |
+| Issue Templates Score (%) | 32.9 |
+| PR Templates Score (%) | 28.8 |
+| Governance Model Score (%) | 9.4 |
+| Secrets Detection Score (%) | 2.4 |
+| Continuous Testing Plan Score (%) | 0.6 |
+| GitHub: Vulnerability Alerts Score (%) | 0.0 |
+| GitHub: Code Scanning Alerts Score (%) | 0.0 |
+| GitHub: Secret Scanning Alerts Score (%) | 0.0 |
+| Repositories evaluated (count) | 85 |
+| Best practices checked (count) | 14 |
+| NO (count) | 705 |
+| YES (count) | 225 |
+| PR (count) | 193 |
+| PARTIAL (count) | 67 |
 
-
-**Overall Repository Average Score (%)**: 25.9
 
 # Repository Check Explanation 
 

@@ -8,6 +8,7 @@
 | [opera-adt/disp-nisar](https://github.com/opera-adt/disp-nisar) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/dist-s1](https://github.com/opera-adt/dist-s1) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/tropo](https://github.com/opera-adt/tropo) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [opera-adt/cal-disp](https://github.com/opera-adt/cal-disp) | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/tile-mate](https://github.com/OPERA-Cal-Val/tile-mate) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-pge](https://github.com/nasa/opera-sds-pge) | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
 | [nasa/opera-sds-pcm](https://github.com/nasa/opera-sds-pcm) | 🟢 | 🟠 | 🟣 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟠 |
@@ -21,7 +22,6 @@
 | [opera-adt/opera-utils](https://github.com/opera-adt/opera-utils) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/distmetrics](https://github.com/opera-adt/distmetrics) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/dist-s1-enumerator](https://github.com/opera-adt/dist-s1-enumerator) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [opera-adt/cal-disp](https://github.com/opera-adt/cal-disp) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-sys](https://github.com/nasa/opera-sds-sys) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-lambdas](https://github.com/nasa/opera-sds-lambdas) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/isce3_util](https://github.com/opera-adt/isce3_util) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -78,16 +78,16 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 16.4 |
+| Overall Best Practice Score (%) | 16.5 |
 | License Score (%) | 84.3 |
 | Readme Score (%) | 47.1 |
 | Additional Documentation Score (%) | 47.1 |
 | Issue Templates Score (%) | 28.6 |
 | Changelog Score (%) | 11.4 |
 | PR Templates Score (%) | 8.6 |
+| Contributing Guide Score (%) | 1.8 |
 | Secrets Detection Score (%) | 1.4 |
 | Continuous Testing Plan Score (%) | 0.7 |
-| Contributing Guide Score (%) | 0.4 |
 | Code of Conduct Score (%) | 0.0 |
 | GitHub: Vulnerability Alerts Score (%) | 0.0 |
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
@@ -96,8 +96,8 @@
 | Repositories evaluated (count) | 70 |
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 67 |
-| YES (count) | 127 |
-| NO (count) | 785 |
+| YES (count) | 128 |
+| NO (count) | 784 |
 | PR (count) | 1 |
 
 

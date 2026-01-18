@@ -46,7 +46,6 @@
 | [nasa-ammos/aerie-ts-user-code-runner](https://github.com/nasa-ammos/aerie-ts-user-code-runner) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/aerie-pr-action](https://github.com/nasa-ammos/aerie-pr-action) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/aerie-cli](https://github.com/nasa-ammos/aerie-cli) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [nasa-ammos/aerie-docs](https://github.com/nasa-ammos/aerie-docs) | 🔴 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/synopsis](https://github.com/nasa-ammos/synopsis) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/AFIDS-POMM](https://github.com/nasa-ammos/AFIDS-POMM) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/VECTOR](https://github.com/nasa-ammos/VECTOR) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -66,6 +65,7 @@
 | [nasa-ammos/DECISION](https://github.com/nasa-ammos/DECISION) | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/aerie-mission-model-template](https://github.com/nasa-ammos/aerie-mission-model-template) | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/slim-starterkit-java](https://github.com/nasa-ammos/slim-starterkit-java) | 🟢 | 🟠 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [nasa-ammos/aerie-docs](https://github.com/nasa-ammos/aerie-docs) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/slim-config-detect-secrets](https://github.com/nasa-ammos/slim-config-detect-secrets) | 🟣 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/aerie-pmc](https://github.com/nasa-ammos/aerie-pmc) | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/multi-mission-utilities-DSN](https://github.com/nasa-ammos/multi-mission-utilities-DSN) | 🔴 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -96,12 +96,12 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 27.9 |
+| Overall Best Practice Score (%) | 27.8 |
 | Additional Documentation Score (%) | 72.7 |
 | License Score (%) | 67.6 |
 | Readme Score (%) | 50.6 |
 | Code of Conduct Score (%) | 42.3 |
-| Contributing Guide Score (%) | 40.3 |
+| Contributing Guide Score (%) | 39.2 |
 | Issue Templates Score (%) | 35.5 |
 | Changelog Score (%) | 33.8 |
 | PR Templates Score (%) | 30.7 |
@@ -113,8 +113,8 @@
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
 | Repositories evaluated (count) | 88 |
 | Best practices checked (count) | 14 |
-| YES (count) | 261 |
-| NO (count) | 713 |
+| YES (count) | 260 |
+| NO (count) | 714 |
 | PARTIAL (count) | 72 |
 | PR (count) | 186 |
 

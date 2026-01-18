@@ -62,6 +62,7 @@
 | [OPERA-Cal-Val/dist-s1-sample-workflow](https://github.com/OPERA-Cal-Val/dist-s1-sample-workflow) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/next_pass](https://github.com/OPERA-Cal-Val/next_pass) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/disp-s1_research](https://github.com/OPERA-Cal-Val/disp-s1_research) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [OPERA-Cal-Val/disasters](https://github.com/OPERA-Cal-Val/disasters) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dist-s1-events](https://github.com/OPERA-Cal-Val/dist-s1-events) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/CSLC-S1_Specs](https://github.com/opera-adt/CSLC-S1_Specs) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/Static_Layers_CSLC-S1_Specs](https://github.com/opera-adt/Static_Layers_CSLC-S1_Specs) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -78,13 +79,13 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 16.5 |
-| License Score (%) | 84.3 |
-| Readme Score (%) | 47.1 |
-| Additional Documentation Score (%) | 47.1 |
-| Issue Templates Score (%) | 28.6 |
-| Changelog Score (%) | 11.4 |
-| PR Templates Score (%) | 8.6 |
+| Overall Best Practice Score (%) | 16.4 |
+| License Score (%) | 83.1 |
+| Additional Documentation Score (%) | 47.9 |
+| Readme Score (%) | 47.2 |
+| Issue Templates Score (%) | 28.2 |
+| Changelog Score (%) | 11.3 |
+| PR Templates Score (%) | 8.4 |
 | Contributing Guide Score (%) | 1.8 |
 | Secrets Detection Score (%) | 1.4 |
 | Continuous Testing Plan Score (%) | 0.7 |
@@ -93,11 +94,11 @@
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
 | Governance Model Score (%) | 0.0 |
-| Repositories evaluated (count) | 70 |
+| Repositories evaluated (count) | 71 |
 | Best practices checked (count) | 14 |
-| PARTIAL (count) | 67 |
-| YES (count) | 128 |
-| NO (count) | 784 |
+| PARTIAL (count) | 68 |
+| YES (count) | 129 |
+| NO (count) | 796 |
 | PR (count) | 1 |
 
 

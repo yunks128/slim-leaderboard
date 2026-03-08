@@ -52,7 +52,6 @@
 | [MAAP-project/dps_tutorial](https://github.com/MAAP-project/dps_tutorial) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-statuspage](https://github.com/MAAP-project/maap-statuspage) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/federated-collection-discovery-deployment](https://github.com/MAAP-project/federated-collection-discovery-deployment) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [MAAP-project/maap-portal-esa](https://github.com/MAAP-project/maap-portal-esa) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-stack-eclipseche-esa](https://github.com/MAAP-project/maap-stack-eclipseche-esa) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-auth-example](https://github.com/MAAP-project/maap-auth-example) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/Community](https://github.com/MAAP-project/Community) | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -96,15 +95,15 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 17.7 |
-| License Score (%) | 90.9 |
-| Additional Documentation Score (%) | 45.5 |
-| Readme Score (%) | 43.2 |
-| Contributing Guide Score (%) | 22.7 |
-| Changelog Score (%) | 21.3 |
-| Issue Templates Score (%) | 10.2 |
-| Code of Conduct Score (%) | 9.1 |
-| PR Templates Score (%) | 4.5 |
+| Overall Best Practice Score (%) | 17.8 |
+| License Score (%) | 92.0 |
+| Additional Documentation Score (%) | 44.8 |
+| Readme Score (%) | 43.1 |
+| Contributing Guide Score (%) | 23.0 |
+| Changelog Score (%) | 21.6 |
+| Issue Templates Score (%) | 10.3 |
+| Code of Conduct Score (%) | 9.2 |
+| PR Templates Score (%) | 4.6 |
 | GitHub: Vulnerability Alerts Score (%) | 0.0 |
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
@@ -113,9 +112,9 @@
 | Continuous Testing Plan Score (%) | 0.0 |
 | Repositories evaluated (count) | 88 |
 | Best practices checked (count) | 14 |
-| PARTIAL (count) | 76 |
-| YES (count) | 179 |
-| NO (count) | 974 |
+| PARTIAL (count) | 75 |
+| YES (count) | 178 |
+| NO (count) | 962 |
 | PR (count) | 3 |
 
 

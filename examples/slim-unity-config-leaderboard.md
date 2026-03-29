@@ -6,6 +6,7 @@
 | [unity-sds/unity-architecture](https://github.com/unity-sds/unity-architecture) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-project-management](https://github.com/unity-sds/unity-project-management) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-data-services](https://github.com/unity-sds/unity-data-services) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [unity-sds/unity-cs-infra](https://github.com/unity-sds/unity-cs-infra) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-ads-deployment](https://github.com/unity-sds/unity-ads-deployment) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-sps-workflows](https://github.com/unity-sds/unity-sps-workflows) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/ades_wpst](https://github.com/unity-sds/ades_wpst) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -41,6 +42,7 @@
 | [unity-sds/mdps-app-generator](https://github.com/unity-sds/mdps-app-generator) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/mdps-example-application](https://github.com/unity-sds/mdps-example-application) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-monorepo](https://github.com/unity-sds/unity-monorepo) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [unity-sds/unity-tutorial-application](https://github.com/unity-sds/unity-tutorial-application) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/mdps-ds-lib](https://github.com/unity-sds/mdps-ds-lib) | 🟢 | 🟠 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-docker-stacks](https://github.com/unity-sds/unity-docker-stacks) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [unity-sds/unity-marketplace](https://github.com/unity-sds/unity-marketplace) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -79,27 +81,27 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 31.3 |
-| License Score (%) | 76.4 |
-| Readme Score (%) | 59.5 |
-| Additional Documentation Score (%) | 59.1 |
-| Changelog Score (%) | 52.1 |
-| Contributing Guide Score (%) | 51.8 |
-| Code of Conduct Score (%) | 51.8 |
-| Issue Templates Score (%) | 44.0 |
-| PR Templates Score (%) | 41.2 |
+| Overall Best Practice Score (%) | 31.6 |
+| License Score (%) | 77.0 |
+| Additional Documentation Score (%) | 60.3 |
+| Readme Score (%) | 59.9 |
+| Changelog Score (%) | 53.4 |
+| Contributing Guide Score (%) | 51.7 |
+| Code of Conduct Score (%) | 51.7 |
+| Issue Templates Score (%) | 44.2 |
+| PR Templates Score (%) | 41.4 |
 | Governance Model Score (%) | 1.4 |
-| Continuous Testing Plan Score (%) | 1.1 |
+| Continuous Testing Plan Score (%) | 1.0 |
 | GitHub: Vulnerability Alerts Score (%) | 0.0 |
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
 | Secrets Detection Score (%) | 0.0 |
 | Repositories evaluated (count) | 73 |
 | Best practices checked (count) | 14 |
-| YES (count) | 286 |
-| NO (count) | 646 |
+| YES (count) | 297 |
+| NO (count) | 662 |
 | PR (count) | 23 |
-| PARTIAL (count) | 39 |
+| PARTIAL (count) | 40 |
 
 
 # Repository Check Explanation 

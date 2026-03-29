@@ -27,6 +27,7 @@
 | [nasa-ammos/BSL](https://github.com/nasa-ammos/BSL) | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/BSL-docs](https://github.com/nasa-ammos/BSL-docs) | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/MMTC-site](https://github.com/nasa-ammos/MMTC-site) | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [rzellem/EXOTIC](https://github.com/rzellem/EXOTIC) | 🟢 | 🟠 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/timecraftjs](https://github.com/nasa-ammos/timecraftjs) | 🟢 | 🟠 | 🟢 | 🟣 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/LithoSphere](https://github.com/nasa-ammos/LithoSphere) | 🟢 | 🟠 | 🟣 | 🟣 | 🟣 | 🟣 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa-ammos/aerie-gateway](https://github.com/nasa-ammos/aerie-gateway) | 🟢 | 🟠 | 🟣 | 🟢 | 🟣 | 🟣 | 🟢 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -95,26 +96,26 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 27.7 |
-| Additional Documentation Score (%) | 72.4 |
-| License Score (%) | 67.2 |
+| Overall Best Practice Score (%) | 27.8 |
+| Additional Documentation Score (%) | 72.7 |
+| License Score (%) | 67.6 |
 | Readme Score (%) | 50.6 |
-| Code of Conduct Score (%) | 41.7 |
-| Contributing Guide Score (%) | 38.2 |
-| Issue Templates Score (%) | 35.9 |
-| Changelog Score (%) | 34.2 |
-| PR Templates Score (%) | 31.0 |
-| Governance Model Score (%) | 12.6 |
-| Secrets Detection Score (%) | 3.5 |
+| Code of Conduct Score (%) | 42.3 |
+| Contributing Guide Score (%) | 38.9 |
+| Issue Templates Score (%) | 35.5 |
+| Changelog Score (%) | 33.8 |
+| PR Templates Score (%) | 30.7 |
+| Governance Model Score (%) | 12.5 |
+| Secrets Detection Score (%) | 3.4 |
 | Continuous Testing Plan Score (%) | 0.6 |
 | GitHub: Vulnerability Alerts Score (%) | 0.0 |
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
 | Repositories evaluated (count) | 88 |
 | Best practices checked (count) | 14 |
-| YES (count) | 256 |
-| NO (count) | 707 |
-| PARTIAL (count) | 71 |
+| YES (count) | 260 |
+| NO (count) | 716 |
+| PARTIAL (count) | 72 |
 | PR (count) | 184 |
 
 

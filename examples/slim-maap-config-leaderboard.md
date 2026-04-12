@@ -36,6 +36,7 @@
 | [MAAP-project/maap-eclipseche-ops](https://github.com/MAAP-project/maap-eclipseche-ops) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/keycloak-cas-services](https://github.com/MAAP-project/keycloak-cas-services) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/authorizer](https://github.com/MAAP-project/authorizer) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [MAAP-project/Community](https://github.com/MAAP-project/Community) | 🔴 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-ade-tutorials](https://github.com/MAAP-project/maap-ade-tutorials) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-dps-installers](https://github.com/MAAP-project/maap-dps-installers) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/cmr-stac](https://github.com/MAAP-project/cmr-stac) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -55,7 +56,6 @@
 | [MAAP-project/maap-portal-esa](https://github.com/MAAP-project/maap-portal-esa) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-stack-eclipseche-esa](https://github.com/MAAP-project/maap-stack-eclipseche-esa) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-auth-example](https://github.com/MAAP-project/maap-auth-example) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [MAAP-project/Community](https://github.com/MAAP-project/Community) | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-ade-edscproxy](https://github.com/MAAP-project/maap-ade-edscproxy) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-dps-packer-templates](https://github.com/MAAP-project/maap-dps-packer-templates) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-ade-esa-test](https://github.com/MAAP-project/maap-ade-esa-test) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -96,10 +96,10 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 17.7 |
+| Overall Best Practice Score (%) | 17.8 |
 | License Score (%) | 90.9 |
-| Additional Documentation Score (%) | 45.5 |
-| Readme Score (%) | 43.2 |
+| Additional Documentation Score (%) | 46.6 |
+| Readme Score (%) | 43.8 |
 | Contributing Guide Score (%) | 22.7 |
 | Changelog Score (%) | 21.3 |
 | Issue Templates Score (%) | 10.2 |
@@ -113,9 +113,9 @@
 | Continuous Testing Plan Score (%) | 0.0 |
 | Repositories evaluated (count) | 88 |
 | Best practices checked (count) | 14 |
-| PARTIAL (count) | 76 |
-| YES (count) | 179 |
-| NO (count) | 974 |
+| PARTIAL (count) | 77 |
+| YES (count) | 180 |
+| NO (count) | 972 |
 | PR (count) | 3 |
 
 

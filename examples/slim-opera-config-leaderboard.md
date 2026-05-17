@@ -11,7 +11,7 @@
 | [opera-adt/cal-disp](https://github.com/opera-adt/cal-disp) | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/tile-mate](https://github.com/OPERA-Cal-Val/tile-mate) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-pge](https://github.com/nasa/opera-sds-pge) | 🟢 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 |
-| [nasa/opera-sds-pcm](https://github.com/nasa/opera-sds-pcm) | 🟢 | 🟠 | 🟣 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟠 |
+| [nasa/opera-sds-pcm](https://github.com/nasa/opera-sds-pcm) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟠 |
 | [nasa/opera-sds](https://github.com/nasa/opera-sds) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-bach-ui](https://github.com/nasa/opera-sds-bach-ui) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [nasa/opera-sds-ops](https://github.com/nasa/opera-sds-ops) | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -89,7 +89,7 @@
 | Issue Templates Score (%) | 27.0 |
 | Changelog Score (%) | 10.8 |
 | PR Templates Score (%) | 8.1 |
-| Contributing Guide Score (%) | 1.7 |
+| Contributing Guide Score (%) | 1.4 |
 | Secrets Detection Score (%) | 1.4 |
 | Continuous Testing Plan Score (%) | 0.7 |
 | Code of Conduct Score (%) | 0.0 |
@@ -101,8 +101,7 @@
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 71 |
 | YES (count) | 132 |
-| NO (count) | 832 |
-| PR (count) | 1 |
+| NO (count) | 833 |
 
 
 # Repository Check Explanation 

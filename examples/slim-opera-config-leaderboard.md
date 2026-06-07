@@ -30,6 +30,7 @@
 | [opera-adt/bowser](https://github.com/opera-adt/bowser) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/synth](https://github.com/opera-adt/synth) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/geepers](https://github.com/opera-adt/geepers) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [opera-adt/Venti](https://github.com/opera-adt/Venti) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/calval-CSLC](https://github.com/OPERA-Cal-Val/calval-CSLC) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/calval-RTC](https://github.com/OPERA-Cal-Val/calval-RTC) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/DSWx-SCP-validation-generation](https://github.com/OPERA-Cal-Val/DSWx-SCP-validation-generation) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -49,7 +50,6 @@
 | [opera-adt/dswx-swot](https://github.com/opera-adt/dswx-swot) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/disp-xr](https://github.com/opera-adt/disp-xr) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/dist-s1-training-data](https://github.com/opera-adt/dist-s1-training-data) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [opera-adt/Venti](https://github.com/opera-adt/Venti) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [gladumd/OPERA_DIST](https://github.com/gladumd/OPERA_DIST) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/DSWx-Validation-Experiments](https://github.com/OPERA-Cal-Val/DSWx-Validation-Experiments) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/OPERA_coverage](https://github.com/OPERA-Cal-Val/OPERA_coverage) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -82,10 +82,10 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 16.2 |
+| Overall Best Practice Score (%) | 16.3 |
 | License Score (%) | 83.8 |
 | Readme Score (%) | 47.3 |
-| Additional Documentation Score (%) | 46.0 |
+| Additional Documentation Score (%) | 47.3 |
 | Issue Templates Score (%) | 27.0 |
 | Changelog Score (%) | 10.8 |
 | PR Templates Score (%) | 8.1 |
@@ -100,8 +100,8 @@
 | Repositories evaluated (count) | 74 |
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 71 |
-| YES (count) | 132 |
-| NO (count) | 833 |
+| YES (count) | 133 |
+| NO (count) | 832 |
 
 
 # Repository Check Explanation 

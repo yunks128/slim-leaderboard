@@ -84,7 +84,7 @@
 | [MAAP-project/get-dem](https://github.com/MAAP-project/get-dem) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/maap-metrics-exporter](https://github.com/MAAP-project/maap-metrics-exporter) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/sardem-sarsen](https://github.com/MAAP-project/sardem-sarsen) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [MAAP-project/ogc-app-pack-generator](https://github.com/MAAP-project/ogc-app-pack-generator) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [MAAP-project/ogc-app-pack-generator](https://github.com/MAAP-project/ogc-app-pack-generator) | 🟢 | 🟠 | 🟣 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/ept-tools](https://github.com/MAAP-project/ept-tools) | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/dps-register-job](https://github.com/MAAP-project/dps-register-job) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [MAAP-project/request_cognito_oauth_token](https://github.com/MAAP-project/request_cognito_oauth_token) | 🔴 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -96,11 +96,11 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 17.5 |
+| Overall Best Practice Score (%) | 17.6 |
 | License Score (%) | 90.9 |
 | Additional Documentation Score (%) | 47.7 |
 | Readme Score (%) | 43.8 |
-| Contributing Guide Score (%) | 20.4 |
+| Contributing Guide Score (%) | 20.7 |
 | Changelog Score (%) | 18.8 |
 | Issue Templates Score (%) | 10.2 |
 | Code of Conduct Score (%) | 9.1 |
@@ -115,8 +115,8 @@
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 77 |
 | YES (count) | 177 |
-| NO (count) | 976 |
-| PR (count) | 2 |
+| NO (count) | 975 |
+| PR (count) | 3 |
 
 
 # Repository Check Explanation 

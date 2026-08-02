@@ -41,6 +41,7 @@
 | [OPERA-Cal-Val/calval-DISP](https://github.com/OPERA-Cal-Val/calval-DISP) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/OPERA-ArcGIS-Toolbox](https://github.com/OPERA-Cal-Val/OPERA-ArcGIS-Toolbox) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dswx-s1-workflow-pst](https://github.com/OPERA-Cal-Val/dswx-s1-workflow-pst) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [OPERA-Cal-Val/next_pass](https://github.com/OPERA-Cal-Val/next_pass) | 🟢 | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/disasters](https://github.com/OPERA-Cal-Val/disasters) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dist-s1-validation](https://github.com/OPERA-Cal-Val/dist-s1-validation) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/opera-blog](https://github.com/OPERA-Cal-Val/opera-blog) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -63,7 +64,6 @@
 | [OPERA-Cal-Val/dist-s1-validation-harness](https://github.com/OPERA-Cal-Val/dist-s1-validation-harness) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dist-s1-calibration](https://github.com/OPERA-Cal-Val/dist-s1-calibration) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dist-s1-sample-workflow](https://github.com/OPERA-Cal-Val/dist-s1-sample-workflow) | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [OPERA-Cal-Val/next_pass](https://github.com/OPERA-Cal-Val/next_pass) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/disp-s1_research](https://github.com/OPERA-Cal-Val/disp-s1_research) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/dist-s1-events](https://github.com/OPERA-Cal-Val/dist-s1-events) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/OPERA-SEP-Stats](https://github.com/OPERA-Cal-Val/OPERA-SEP-Stats) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -83,14 +83,14 @@
 
 | Metric | Value |
 | ------ | ----- |
-| Overall Best Practice Score (%) | 16.3 |
+| Overall Best Practice Score (%) | 16.4 |
 | License Score (%) | 84.0 |
 | Additional Documentation Score (%) | 48.0 |
 | Readme Score (%) | 47.3 |
 | Issue Templates Score (%) | 26.7 |
 | Changelog Score (%) | 10.7 |
 | PR Templates Score (%) | 8.0 |
-| Contributing Guide Score (%) | 1.3 |
+| Contributing Guide Score (%) | 2.7 |
 | Secrets Detection Score (%) | 1.3 |
 | Continuous Testing Plan Score (%) | 0.7 |
 | Code of Conduct Score (%) | 0.0 |
@@ -101,8 +101,8 @@
 | Repositories evaluated (count) | 75 |
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 72 |
-| YES (count) | 135 |
-| NO (count) | 843 |
+| YES (count) | 136 |
+| NO (count) | 842 |
 
 
 # Repository Check Explanation 

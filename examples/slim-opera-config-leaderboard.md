@@ -32,6 +32,7 @@
 | [opera-adt/geepers](https://github.com/opera-adt/geepers) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/Venti](https://github.com/opera-adt/Venti) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [opera-adt/nisar_db](https://github.com/opera-adt/nisar_db) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [opera-adt/.github](https://github.com/opera-adt/.github) | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/calval-CSLC](https://github.com/OPERA-Cal-Val/calval-CSLC) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/calval-RTC](https://github.com/OPERA-Cal-Val/calval-RTC) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | [OPERA-Cal-Val/DSWx-SCP-validation-generation](https://github.com/OPERA-Cal-Val/DSWx-SCP-validation-generation) | 🟢 | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -86,25 +87,25 @@
 | Metric | Value |
 | ------ | ----- |
 | Overall Best Practice Score (%) | 16.3 |
-| License Score (%) | 84.4 |
-| Readme Score (%) | 47.4 |
-| Additional Documentation Score (%) | 46.8 |
-| Issue Templates Score (%) | 26.0 |
-| Changelog Score (%) | 11.7 |
-| PR Templates Score (%) | 7.8 |
-| Contributing Guide Score (%) | 2.6 |
+| License Score (%) | 83.3 |
+| Readme Score (%) | 46.8 |
+| Additional Documentation Score (%) | 46.1 |
+| Issue Templates Score (%) | 25.6 |
+| Changelog Score (%) | 11.5 |
+| PR Templates Score (%) | 7.7 |
+| Contributing Guide Score (%) | 3.9 |
+| Code of Conduct Score (%) | 1.3 |
 | Secrets Detection Score (%) | 1.3 |
-| Continuous Testing Plan Score (%) | 0.7 |
-| Code of Conduct Score (%) | 0.0 |
+| Continuous Testing Plan Score (%) | 0.6 |
 | GitHub: Vulnerability Alerts Score (%) | 0.0 |
 | GitHub: Code Scanning Alerts Score (%) | 0.0 |
 | GitHub: Secret Scanning Alerts Score (%) | 0.0 |
 | Governance Model Score (%) | 0.0 |
-| Repositories evaluated (count) | 77 |
+| Repositories evaluated (count) | 78 |
 | Best practices checked (count) | 14 |
 | PARTIAL (count) | 74 |
-| YES (count) | 139 |
-| NO (count) | 865 |
+| YES (count) | 141 |
+| NO (count) | 877 |
 
 
 # Repository Check Explanation 
